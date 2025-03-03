@@ -1,5 +1,7 @@
 # Getting Started with Create React App
 
+Developed a responsive real estate website using React, JavaScript, and Bootstrap, allowing users to browse and purchase homes, apartments, and properties. Integrated Google Maps API for real-time property location viewing and implemented a local storage system to save favorite listings. Designed an interactive UI with dynamic content updates, ensuring a seamless and user-friendly experience.
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
